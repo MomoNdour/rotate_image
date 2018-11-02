@@ -15,5 +15,6 @@
         <img id="image" src="test.jpg" >   
         <button onclick="functionRotate()"> Rotate </button>
     </section>
+    
 </body>
 </html>
